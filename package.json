@@ -17,6 +17,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.4.6",
     "morgan": "^1.10.0",
+    "serve": "^14.0.1",
     "swagger-jsdoc": "^6.2.1",
     "swagger-ui-express": "^4.5.0",
     "validate-phone-number-node-js": "^0.0.1",
